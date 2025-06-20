@@ -1,11 +1,3 @@
-Android app skeleton
-=======================================
-[![Build Status](https://circleci.com/gh/fs/android-base.png?style=shield&circle-token=c932b3e8650c436df970e9d1e9e06e8ef8fc9893)](https://circleci.com/gh/fs/android-base)
-[![Build Status](https://travis-ci.org/fs/android-base.png)](https://travis-ci.org/fs/android-base/pull_requests)
-[![codecov](https://codecov.io/gh/fs/android-base/branch/master/graph/badge.svg)](https://codecov.io/gh/fs/android-base)
-
-This project will help you quickly start developing a new android app
-
 ## Table of Contents
 1. [Setup. Install IDE, secret environment](#setup)
 1. [Build. Create apk](#building)
